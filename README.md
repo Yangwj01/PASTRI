@@ -3,8 +3,8 @@
 PASTRI is a computational framework designed to quantify cell state transition rates from phylogenetic data.  PASTRI utilizes cell phylogeny where terminal nodes (tips) are annotated by single-cell phenotypes, thereby inferring a transition rate matrix to robustly and systematically characterize cell-state transition dynamics across diverse biological contexts.
 
 ## System requirement
-* Require R (>= 3.6.15)
-* Require python (>= 4.2.3).
+* Require R (>= 4.2.3)
+* Require python (>= 3.6.15).
    
 ## Install
 ```
